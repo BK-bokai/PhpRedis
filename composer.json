@@ -1,0 +1,13 @@
+{
+    "name": "pc/composer-demo",
+    "require": {
+        "monolog/monolog":"^1.23",
+        "predis/predis": "*"
+    },
+
+    "autoload":{
+        "classmap": [
+            "lib"
+        ]
+    }
+}
